@@ -35,6 +35,3 @@ I am a Python developer specializing in `Flask`, `Django`, `FastAPI`, `RESTful A
 > I work well in a collaborative team environment and am fully committed to delivering high-quality projects on time, ensuring every detail is meticulously taken care of.
 
 <h4>🧩 My motto is: the tougher the challenge in learning, the more valuable the knowledge gained.</h4> 
-
-<!--=================================== My Resume ====================================-->
-_<h4> 🧷 <a href="https://raw.githubusercontent.com/FelipeMachado1996/" target="_blank"> &nbsp; My Resume </a> </h4>_ <br/>
