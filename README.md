@@ -43,9 +43,7 @@ I am a Python developer specializing in `Flask`, `Django`, `FastAPI`, `RESTful A
 
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  ![Django](https://static.djangoproject.com/img/logos/django-logo-positive.svg)
-
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
