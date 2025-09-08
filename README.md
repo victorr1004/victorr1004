@@ -28,7 +28,7 @@
 <!--=================================== ABOUT ME ====================================-->
 <h1> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/51f89720-05d3-4dac-b223-b6b81099a25f" alt="man with laptop" width="50" height="50" /> Python Developer | Django | Flask | FastAPI </h1> 
 
-I am a Python developer specializing in `Flask`, `Django`, `FastAPI`, `RESTful API`, `Pandas`, `Scikit-learn`, and `SQL`. My expertise lies in creating scalable web applications, automating workflows, and developing data-driven solutions. But also I have some Front-End experience. I prioritize writing clean, efficient code to address real-world problems and achieve project objectives. <br/><br/> _Please feel free to contact me so we can discuss how I can assist in bringing your project to fruition!
+I am a Python developer specializing in `Flask`, `Django`, `FastAPI`, `RESTful API`, `Pandas`, `Scikit-learn`, and `SQL`. My expertise lies in creating scalable web applications, automating workflows, and developing data-driven solutions. But also I have some Front-End experience. I prioritize writing clean, efficient code to address real-world problems and achieve project objectives. <br/><br/> _Please feel free to contact me so we can discuss how I can assist in bringing your project to fruition
 _.
  <br/><br/>
 
