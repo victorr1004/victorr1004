@@ -1,14 +1,14 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Felipe Machado's GitHub profile. Python Developer skilled in Python, Flask, Django, FastAPI, RESTful API, pandas, SQL, PostgreSQL, MySQL, MongoDB and React.">
-<meta name="author" content="Felipe Machado">
-<meta name="keywords" content="Felipe Machado, Python Developer, Python, Flask, Django, FastAPI, RESTful API, pandas, SQL, PostgreSQL, MySQL, MongoDB, React">
+<meta name="description" content="Victor Rolinschi's GitHub profile. Python Developer skilled in Python, Flask, Django, FastAPI, RESTful API, pandas, SQL, PostgreSQL, MySQL, MongoDB and React.">
+<meta name="author" content="Victor Rolinschi">
+<meta name="keywords" content="Victor Rolinschi, Python Developer, Python, Flask, Django, FastAPI, RESTful API, pandas, SQL, PostgreSQL, MySQL, MongoDB, React">
 
 <meta http-equiv='cache-control' content='no-cache'> 
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'>
 
-<meta property="og:title" content="Felipe Machado's GitHub Profile">
+<meta property="og:title" content="Victor Rolinschi's GitHub Profile">
 <meta property="og:description" content=" Python Developer skilled in Python, Flask, Django, FastAPI, RESTful API, pandas, SQL, PostgreSQL, MySQL, MongoDB and React.">
 <meta property="og:type" content="website">
 
@@ -20,7 +20,7 @@
 <div align='center'> 
   <h3>
    𝑯𝒆𝒚 𝒕𝒉𝒆𝒓𝒆 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" />
- 𝑰 a𝒎 Felipe Machado
+ 𝑰 a𝒎 Victor Rolinschi
   </h3>
 </div> 
 <br>
